@@ -65,3 +65,8 @@ This dashboard reveals several critical insights into the factors driving medica
 
 -   **Regional Differences:** The map shows that total charges vary by region, with certain areas having higher overall medical costs.
 -   **Impact of Children:** The number of children a policyholder has also influences the total charges, though to a lesser extent than smoking or age.
+  
+### [5] Common Themes in Claims
+
+-   The word cloud highlights the most common terms associated with insurance claims. Words such as **"accident," "injury," "check-up,"** and **"prescription"** appear frequently, providing a quick overview of the primary reasons for claims.
+
