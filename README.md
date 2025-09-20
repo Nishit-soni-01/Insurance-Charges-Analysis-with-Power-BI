@@ -1,6 +1,6 @@
 # Insurance-Charges-Analysis-Dashboard
 
-### Dashboard Link: [Insert Your Power BI Report Link Here]
+### Dashboard Link: https://app.powerbi.com/Redirect?action=OpenApp&appId=d68a8827-ec1d-466b-a1f3-11f678bbc31a&ctid=3ad87f0e-1f93-41bd-94f4-82c37d971c88&experience=power-bi
 
 ## Problem Statement
 
